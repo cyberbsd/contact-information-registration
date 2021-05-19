@@ -7,8 +7,8 @@ Google 問卷           | Google 以及自己設計                             
 Google 問卷 (中興大學) | Google 以及自己設計                              |            | https://sites.google.com/email.nchu.edu.tw/slimz/%E9%A6%96%E9%A0%81?authuser=0           | 是
 SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自己設計     | 國光客運    |            |            
 實聯制 \| 電子化解決方案 | mutix Co., Ltd. (乘聚科技股份有限公司)            |            |
-台灣加密型實聯制        | 思言科技股份有限公司                               | twlink.app | 是 MIT (https://twlink.app/contributes)
-簡訊實聯制 (1922)      | 行政院                                           | [申請網址](https://emask.taiwan.gov.tw/real/)| 
+台灣加密型實聯制        | 思言科技股份有限公司                               | | https://twlink.app | 是 MIT (https://twlink.app/contributes)
+簡訊實聯制 (1922)      | 行政院                                           | | [申請網址](https://emask.taiwan.gov.tw/real/) [使用QA](https://g0v.hackmd.io/FxudGiM8RSKnpCo4TrMhNg)| 
 台北通（myCode+）      | 台北市政府                                       |            |
 雲林Nubi扭一下         | 雲林縣政府                                       |            |
 台中市實聯制           | 台中市政府                                          |            | https://tccgov.tw/ | 是 https://github.com/mirror520/tiwengo   https://github.com/mirror520/tiwenpass     
