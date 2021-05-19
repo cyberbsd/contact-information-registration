@@ -8,13 +8,14 @@ Google 問卷 (中興大學) | Google 以及自己設計                        
 SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自己設計     | 國光客運    |            |            
 實聯制 \| 電子化解決方案 | mutix Co., Ltd. (乘聚科技股份有限公司)            |            |
 台灣加密型實聯制        | 思言科技股份有限公司                               | | https://twlink.app | 是 MIT (https://twlink.app/contributes)
-簡訊實聯制 (1922)      | 行政院                                           | | [申請網址](https://emask.taiwan.gov.tw/real/) [使用QA](https://g0v.hackmd.io/FxudGiM8RSKnpCo4TrMhNg)| 
+簡訊實聯制 (1922)      | 行政院                                           | | [申請網址](https://emask.taiwan.gov.tw/real/) [使用QA](https://g0v.hackmd.io/@AHOpE3rrRl6RlTfUWovziw/HkmyoS-Fu)| 
 台北通（myCode+）      | 台北市政府                                       |            |
 雲林Nubi扭一下         | 雲林縣政府                                       |            |
 台中市實聯制           | 台中市政府                                          |            | https://tccgov.tw/ | 
 防疫實聯衝衝衝           | 知惠科技                                          |            | [店家版](https://lin.ee/N1DLxwm) [民眾版](https://lin.ee/w7kkkOX)
 Ragic                  |                                                 |            |
 實聯快疫通             | Young Square Createch LTD. (揚揚創新科技有限公司)    |            |
+QPass                | 拾光網路                                        | [申請網址](https://pass.nasrio.com/)           |
 
 # 使用者個人資料保護部分
 
