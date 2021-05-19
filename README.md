@@ -11,7 +11,7 @@ SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自�
 簡訊實聯制 (1922)      | 行政院                                       |            |
 台北通（myCode+）      | 台北市政府                                   |            |
 雲林Nubi扭一下         | 雲林縣政府                                   |            |
-台中市實聯制           | 台中市政府                                   |            | https://tccgov.tw/
+台中市實聯制           | 台中市政府                                   |            | https://tccgov.tw/ | 是 https://github.com/mirror520/tiwengo   https://github.com/mirror520/tiwenpass     
 防疫實聯衝衝衝           | 知惠科技                                  |            | 店家版：https://lin.ee/N1DLxwm 民眾版：https://lin.ee/w7kkkOX
 
 
