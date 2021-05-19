@@ -67,6 +67,17 @@ SurveryCake          | 聯絡店家       | 聯絡店家      | 聯絡店家    
 處揭示，並以 QR Code 或網址連結提供其他細節事項。
 ```
 
+### 技術面
+
+名字                   | 技術架構                | 是否有開放原始碼 | 授權 
+----------------------|------------------------|---------------|------
+Google 問卷            | RWD 網頁                | 無             |
+SurveryCake           | RWD 網頁                | 無             |
+實聯制 \| 電子化解決方案  | RWD 網頁               | |
+台灣加密型實聯制         | RWD 網頁               | [介紹](https://twlink.app/contributes) | MIT
+簡訊實聯制 (1922)       | QRCode smsto + 簡訊系統 | 無 |
+
+
 ## 其他介紹網頁
 [實聯制App懶人總整理：各縣市防疫實聯名制 QR Code一次看](https://mrmad.com.tw/real-name-system-app)
 [g0v整理的實聯制工具](https://g0v.hackmd.io/@yitzu/covid-19?type=view#%E5%AF%A6%E8%81%AF%E5%88%B6%E5%B7%A5%E5%85%B7-%F0%9F%93%95Contact-Tracing-Tools)
