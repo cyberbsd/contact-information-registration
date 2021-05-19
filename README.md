@@ -17,3 +17,4 @@ SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自�
 
 ## 其他介紹網頁
 [實聯制App懶人總整理：各縣市防疫實聯名制 QR Code一次看](https://mrmad.com.tw/real-name-system-app)
+[g0v整理的實聯制工具](https://g0v.hackmd.io/@yitzu/covid-19?type=view#%E5%AF%A6%E8%81%AF%E5%88%B6%E5%B7%A5%E5%85%B7-%F0%9F%93%95Contact-Tracing-Tools)
