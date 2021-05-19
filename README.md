@@ -1,12 +1,19 @@
-實聯制服務列表
+# 實聯制服務列表
 
-名字                  | 提供者                                      | 採用者     | 服務連結    | 是否開源
+名字                  | 提供者                                      | 採用者     | 服務連結    | 是否開放程式碼
 ---------------------|--------------------------------------------|-----------|-----------|---
 Google 問卷           | Google 以及自己設計                          | 美廉社     |           |     
 --                     |                                          | 全聯福利中心 |           |     
+Google 問卷 (中興大學) | Google 以及自己設計                          |            | https://sites.google.com/email.nchu.edu.tw/slimz/%E9%A6%96%E9%A0%81?authuser=0           | 是
 SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自己設計 | 國光客運    |            |            
 實聯制 \| 電子化解決方案 | mutix Co., Ltd. (乘聚科技股份有限公司)         |            |
 台灣加密型實聯制        | 思言科技股份有限公司                           | twlink.app | 是 MIT (https://twlink.app/contributes)
 簡訊實聯制 (1922)      | 行政院                                       |            |
+台北通（myCode+）      | 台北市政府                                   |            |
+雲林Nubi扭一下         | 雲林縣政府                                   |            |
+台中市實聯制           | 台中市政府                                   |            | https://tccgov.tw/
+防疫實聯衝衝衝           | 知惠科技                                  |            | 店家版：https://lin.ee/N1DLxwm 民眾版：https://lin.ee/w7kkkOX
 
 
+## 其他介紹網頁
+[實聯制App懶人總整理：各縣市防疫實聯名制 QR Code一次看](https://mrmad.com.tw/real-name-system-app)
