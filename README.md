@@ -12,7 +12,7 @@ SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自�
 台北通（myCode+）      | 台北市政府                                       |            |
 雲林Nubi扭一下         | 雲林縣政府                                       |            |
 台中市實聯制           | 台中市政府                                          |            | https://tccgov.tw/ | 
-防疫實聯衝衝衝           | 知惠科技                                          |            | 店家版：https://lin.ee/N1DLxwm 民眾版：https://lin.ee/w7kkkOX
+防疫實聯衝衝衝           | 知惠科技                                          |            | [店家版](https://lin.ee/N1DLxwm) [民眾版](https://lin.ee/w7kkkOX)
 Ragic                  |                                                 |            |
 實聯快疫通             | Young Square Createch LTD. (揚揚創新科技有限公司)    |            |
 
@@ -77,6 +77,7 @@ SurveryCake           | RWD 網頁                | 無             |
 台灣加密型實聯制         | RWD 網頁               | [介紹](https://twlink.app/contributes) | MIT
 簡訊實聯制 (1922)       | QRCode smsto + 簡訊系統 | 無 |
 台中市實聯制           |                         | 是 https://github.com/mirror520/tiwengo   https://github.com/mirror520/tiwenpass |
+防疫實聯衝衝衝           | Line APP + Line notify | 否 
 
 
 ## 其他介紹網頁
