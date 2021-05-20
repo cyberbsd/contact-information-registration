@@ -16,6 +16,7 @@ SurveryCake           | SurveryCake (新芽網路股份有限公司) 以及自�
 Ragic                  |                                                 |            |
 實聯快疫通             | Young Square Createch LTD. (揚揚創新科技有限公司)    |            |
 QPass                | 拾光網路                                        | [申請網址](https://pass.nasrio.com/)           |
+防疫實聯得來速         | 玩子科技                                        |   | https://www.signin.tw/www/ [店家版本](https://bit.ly/3bvcKKs)    |
 
 # 使用者個人資料保護部分
 
